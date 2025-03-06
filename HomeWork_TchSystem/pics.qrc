@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/new/stu1">
+        <file>bkjw.jpg</file>
+        <file>user24.png</file>
+        <file>user48.png</file>
+        <file>user96.png</file>
+        <file>exit48.png</file>
+        <file>exit60.png</file>
+        <file>search24.png</file>
+        <file>cancel26.png</file>
+        <file>select26.png</file>
+        <file>cancel10.png</file>
+        <file>cancel15.png</file>
+        <file>cancel20.png</file>
+        <file>arrowup15.png</file>
+        <file>arrowdown15.png</file>
+        <file>arrowdown30.png</file>
+        <file>arrowdown50.jpg</file>
+        <file>classinfo.jpg</file>
+        <file>icon.jpg</file>
+        <file>loginf.jpg</file>
+        <file>loginf1.jpg</file>
+        <file>logo.jpg</file>
+        <file>back.png</file>
+        <file>back1.png</file>
+        <file>back2.png</file>
+        <file>back5.png</file>
+        <file>backgroundimage1.png</file>
+        <file>choose.png</file>
+        <file>class.png</file>
+        <file>classmanage.png</file>
+        <file>clear.png</file>
+        <file>myscore.png</file>
+        <file>schedule.png</file>
+        <file>search48.png</file>
+        <file>search96.png</file>
+        <file>stuinfo.png</file>
+        <file>tchinfo.png</file>
+        <file>timepass.png</file>
+    </qresource>
+</RCC>
